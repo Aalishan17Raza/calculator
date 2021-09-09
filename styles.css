@@ -22,6 +22,7 @@ button {
 .container-fluid {
     margin: 0 auto 0 auto;
     text-align: center;
+    width: 260px;
 }
 
 .btn-group {

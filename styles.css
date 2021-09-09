@@ -3,7 +3,7 @@ h1 {
     font-family: 'Azeret Mono', monospace;
     padding-bottom: 1%;
     padding-top: 3%;
-    text-align: left;
+    text-align: center
 }
 
 #place {
@@ -19,12 +19,11 @@ button {
     padding: 10px 20px;
 }
 
-.container {
-    width: 25%;
+.container-fluid {
     margin: 0 auto 0 auto;
+    text-align: center;
 }
 
-.col-2 {
-    padding-left: 28px;
-    padding-right: 28px;
+.btn-group {
+    width: 250px;
 }
